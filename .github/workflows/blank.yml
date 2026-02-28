@@ -9,4 +9,4 @@ jobs:
       - name: Print Goodbye
         run: echo "Done-Bye"
       - name: last stage
-        run: echo "Done-Bye!"
+        run: echo "Done-Bye"
